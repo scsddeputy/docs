@@ -16,11 +16,11 @@ You can allows users to sign in on your community with their Mixer account. This
 
 3. Click the + button to create a new App.
 
-![Image of button](http://i.imgur.com/p5XQqbS.png)
+![Image of button](https://i.imgur.com/p5XQqbS.png)
 
 4. Fill in the form with your community information
 
-![Image of form](http://i.imgur.com/Q2de3c8.png)
+![Image of form](https://i.imgur.com/Q2de3c8.png)
 
 - Name can be anything you want (Will show on the Authorize Page)
 - Website is the redirect url for your site and should be filled out as shown: http://your-url.com/applications/core/interface/mixer/auth.php. Replace 'your-url' with the address of your community. If you use https, change it in the url to https.
@@ -38,6 +38,8 @@ You can allows users to sign in on your community with their Mixer account. This
 
 ### Link with Site
 
-1. Now that you have your Client ID and Client Secret, go to your Admin Panel->System->Login Handlers and click the pencil (Edit) on the twitch login method. Copy and paste the Client ID and the Client Secret and then Save.
+1. Now that you have your Client ID and Client Secret, go to your Admin Panel->System->Login Handlers and click the pencil (Edit) on the Mixer login method. Copy and paste the Client ID and the Client Secret and then Save.
+
+![Image of keys](https://i.imgur.com/1XxDvKu.png)
 
 2. Once you have done this, you can now enable the login method and you can test. 
