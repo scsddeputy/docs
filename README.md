@@ -4,21 +4,7 @@ Login Handlers
 Mixer
 ---------------
 
-Create a file based on the template, which has a bare DOM, link to the
-scripts, and a link to a theme. It will look something like this (not exact).
-For GitHub projects, simply place this file in your [GitHub pages] branch and
-you're all good to go.
-
-*In short: just download this file and upload it somewhere.*
-
-The main JS and CSS files are also available in [npm] and [bower].
-
-[Default theme template >][template]
-
-[Blank template >][blank]
-
-[bower]: http://bower.io/search/?q=flatdoc
-[npm]: https://www.npmjs.org/package/flatdoc
+You can allows users to sign in on your community with their Mixer account. This is a great way to make it easier for users to get started on your community and increase the number of signups, especially if the subject of your community means your users are likely to have Mixer accounts. This guide covers everything you need to know to set up this integration.
 
 ### Create OAuth App
 
