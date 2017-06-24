@@ -10,6 +10,9 @@ You can allows users to sign in on your community with their Mixer account. This
 
 1. Visit [Mixer Lab](https://mixer.com/lab) and sign in with your Mixer account if not already signed in.
 
+2. Click the OAuth Clients Link under the logo
+[Imgur](http://i.imgur.com/Vy0mnsz.png)
+
 [GitHub Pages guide >][GitHub Pages]
 
 ### Link with Site
