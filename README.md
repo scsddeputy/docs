@@ -14,6 +14,10 @@ You can allows users to sign in on your community with their Mixer account. This
 
 ![Image of Client Link](https://i.imgur.com/Vy0mnsz.png)
 
+3. Click the + button to create a new App.
+
+![Image of button](http://i.imgur.com/p5XQqbS.png)
+
 [GitHub Pages guide >][GitHub Pages]
 
 ### Link with Site
