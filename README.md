@@ -8,7 +8,7 @@ You can allows users to sign in on your community with their Mixer account. This
 
 ### Create OAuth App
 
-1. Visit [Mixer Lab](https://mixer.com/lab) and sign in with your Mixer account if not already signed in.
+1. Visit [Mixer Lab >](https://mixer.com/lab) and sign in with your Mixer account if not already signed in.
 
 2. Click the OAuth Clients Link under the logo
 
