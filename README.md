@@ -8,25 +8,7 @@ You can allows users to sign in on your community with their Mixer account. This
 
 ### Create OAuth App
 
-To fetch a Github Repository's readme file, use the `Flatdoc.github` fetcher.
-This will fetch the Readme file of the repository's default branch.
-
-``` javascript
-Flatdoc.run({
-  fetcher: Flatdoc.github('USER/REPO')
-});
-```
-
-You may also fetch another file other than the Readme file, just specify it as
-the 2nd parameter.
-
-``` javascript
-Flatdoc.run({
-  fetcher: Flatdoc.github('USER/REPO', 'Changelog.md')
-});
-```
-
-After you've done this, you probably want to deploy it via [GitHub Pages].
+1. Visit https://mixer.com/lab and sign in with your Mixer account if not already signed in.
 
 [GitHub Pages guide >][GitHub Pages]
 
