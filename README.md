@@ -18,6 +18,12 @@ You can allows users to sign in on your community with their Mixer account. This
 
 ![Image of button](http://i.imgur.com/p5XQqbS.png)
 
+4. Fill in the form with your community information
+
+![Image of form](http://i.imgur.com/Q2de3c8.png)
+-Name can be anything you want (Will show on the Authorize Page)
+-Website is the redirect url for your site and should be filled out as shown: http://your-url.com/applications/core/interface/mixer/auth.php. Replace 'your-url' with the address of your community. If you use https, change it in the url to https.
+
 [GitHub Pages guide >][GitHub Pages]
 
 ### Link with Site
