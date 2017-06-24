@@ -1,22 +1,7 @@
-Flatdoc
+Login Handlers
 =======
 
-Flatdoc is a small JavaScript file that fetches Markdown files and renders them
-as full pages. Essentially, it's the easiest
-way to make open source documentation from *Readme* files.
-
- * No server-side components
- * No build process needed
- * Deployable via GitHub Pages
- * Can fetch GitHub Readme files
- * Gorgeous default theme (and it's responsive)
- * Just create an HTML file and deploy!
-
-*Current version: [v0.9.0][dist]*
-
-[![Build Status](https://travis-ci.org/rstacruz/flatdoc.svg?branch=gh-pages)](https://travis-ci.org/rstacruz/flatdoc)
-
-Getting started
+Mixer
 ---------------
 
 Create a file based on the template, which has a bare DOM, link to the
@@ -35,7 +20,7 @@ The main JS and CSS files are also available in [npm] and [bower].
 [bower]: http://bower.io/search/?q=flatdoc
 [npm]: https://www.npmjs.org/package/flatdoc
 
-### Via GitHub
+### Create OAuth App
 
 To fetch a Github Repository's readme file, use the `Flatdoc.github` fetcher.
 This will fetch the Readme file of the repository's default branch.
@@ -59,7 +44,7 @@ After you've done this, you probably want to deploy it via [GitHub Pages].
 
 [GitHub Pages guide >][GitHub Pages]
 
-### Via a file
+### Link with Site
 
 You may also fetch a file. In this example, this fetches the file `Readme.md` in
 the same folder as the HTML file.
