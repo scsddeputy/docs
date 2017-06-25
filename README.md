@@ -88,4 +88,6 @@ You can allows users to sign in on your community with their Smashcast account. 
 
 ![Image of keys](http://i.imgur.com/p9inmOh.png)
 
+And no, the keys in this photo will not work for you as the client no longer exists :P
+
 -2. Once you have done this, you can now enable the login method and you can test. 
